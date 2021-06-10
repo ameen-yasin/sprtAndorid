@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_marginStart="16dp"
+    tools:context=".Activity.cart">
+
+
+<TextView
+    android:id="@+id/shopping_cart"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:text="Shopping Cart"
+    android:textSize="24sp" />
+
+
+<View
+    android:id="@+id/divider"
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:layout_below="@+id/shopping_cart"
+    android:layout_marginTop="20dp"
+    android:background="?android:attr/listDivider" />
+
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/recyclerView_cart"
+    android:layout_width="match_parent"
+    android:layout_height="356dp"
+    android:layout_below="@+id/divider"
+    android:layout_marginTop="20dp">
+
+</androidx.recyclerview.widget.RecyclerView>
+
+<Button
+    android:id="@+id/check_out_btn"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="check out"
+    android:onClick="checkOut"
+    android:layout_below="@+id/recyclerView_cart"
+    />
+
+</RelativeLayout>

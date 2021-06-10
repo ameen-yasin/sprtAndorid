@@ -1,0 +1,32 @@
+{
+  "dumbles": [
+    {
+      "Name": "Portzon Set of 2 Neoprene Dumbbell Hand Weights, Anti-Slip, Anti-roll",
+      "Price": 200.0,
+      "Image": "R.drawable.d1",
+      "Description": "Attractive Muscles–Perfect for use in any exercise or program to tone and sculpt your arms, shoulders and back, including cardio for higher intensity.\nNon Slip-Grip Design–Premium material coating make it gentle and grippe on hands and provides protection against calluses.\nIdeal for workout – the unique HEX shape prevents rolling and is easy for stacking. Especially for at-home workout programs.\nSolid cast iron – made of high quality cast iron core to strengthen durability, toughness and stability. Firm Construction will not break or bend after repeated use.\nEasy to storage – the dumbbell Occupy very little space and can be put anywhere without worrying about rolling as a result of their Hex shape.\n",
+      "Rate": 5,
+      "Color": "purple"
+    },
+    {
+      "Name": "PITHAGE Barbell Neoprene Coated Dumbbell (Pair), Portable Weights for Home Gym Hand Weight",
+      "Price": 100.0,
+      "Image": "R.drawable.d2",
+      "Description": "Cast iron dumbbells are neoprene-coated for durability and to help protect you, the floor and other fitness equipment\nOriginal Hex shaped heads prevent rolling. The medium diameter handle provides essential grip and security during use.\nHelp tone and sculpt your arms, shoulders and back\nHexagonal shape for easy stacking and roll-free use\nIdeal for fitness classes or at-home workout routines\n",
+      "Rate": 4.5,
+      "Color": "blue"
+    }
+    ],
+
+    "tank": [
+      {
+        "Name": "",
+        "Price": 100.0,
+        "Image": "R.drawable.shirt2",
+        "Description": "Cast iron dumbbells are neoprene-coated for durability and to help protect you, the floor and other fitness equipment\nOriginal Hex shaped heads prevent rolling. The medium diameter handle provides essential grip and security during use.\nHelp tone and sculpt your arms, shoulders and back\nHexagonal shape for easy stacking and roll-free use\nIdeal for fitness classes or at-home workout routines\n",
+        "Rate": 4,
+        "Color": "blue"
+
+      }
+    ]
+}
